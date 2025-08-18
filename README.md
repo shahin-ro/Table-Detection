@@ -42,7 +42,7 @@ apt-get install -y tesseract-ocr tesseract-ocr-fas
 1.  **Clone the Repository** 📂:
 
     ``` bash
-    git clone https://github.com/your-username/table-extraction-ocr.git
+    git clone https://github.com/shahin-ro/table-extraction-ocr.git
     cd table-extraction-ocr
     ```
 
